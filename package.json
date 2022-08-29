@@ -1,0 +1,32 @@
+{
+  "name": "sistema-de-cadastro-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanSiljer/sistema-de-cadastro-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanSiljer/sistema-de-cadastro-master/issues"
+  },
+  "homepage": "https://github.com/DanSiljer/sistema-de-cadastro-master#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3",
+    "next": "^12.2.5",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "prompt-sync": "^4.2.0",
+    "react": "^18.2.0",
+    "sequelize": "^6.21.4"
+  }
+}
